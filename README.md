@@ -13,7 +13,7 @@ get these values from the [TokBox Dashboard](https://dashboard.tokbox.com).
 
 3. Download Bower dependencies `bower install`.
 
-4. Install the plugin: cordova plugin add cordova-plugin-opentokjs --save --shrinkwrap
+4. Install the plugin: `ionic plugin add cordova-plugin-opentokjs --save --shrinkwrap`
 
 5. Rename the `www/js/app.constant.js.sample` file to `www/js/app.constant.js`.
 
