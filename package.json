@@ -23,7 +23,10 @@
     "cordova-plugin-opentokjs"
   ],
   "cordovaPlatforms": [
-    "android",
+    {
+      "platform": "android",
+      "locator": "browser"
+    },
     "browser",
     "ios"
   ]
